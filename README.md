@@ -5,6 +5,13 @@ DB-Center:
 team 
  
 Ali Khalifaha Alhawas (439015852) – Coordinator
+* Phase 0 :
+
+
+
+* phase 1 :
+- secion 1&2      
+- Use Case Diagram .    11/10/2020
  
 
 
